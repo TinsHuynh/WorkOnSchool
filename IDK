@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <p style="border: dotted; color: #00f; border-radius: 20px;">A dotted border.</p>
+        <p style="border: dashed; border-radius: 20px;">A dased border.</p>
+        <p style="border: solid; border-radius: 20px;">A solid border.</p>
+        <p style="border: double; border-radius: 20px;">A double border.</p>
+        <p style="border: groove; color: pink; border-radius: 20px;">A groove border.</p>
+        <p style="border: ridge; border-radius: 20px;">A ridge border.</p>
+        <p style="border: inset; color: red; border-radius: 20px;">A inset border.</p>
+        <p style="border: outset; border-radius: 20px;">A outset border.</p>
+        <p style="border: none; border-radius: 20px;">A none border.</p>
+        <p style="border: hidden; border-radius: 20px;">A hidden border.</p>
+        <p style="border: dotted dashed solid double; border-radius: 20px;">No boder.</p>
+    </body>
+</html>
